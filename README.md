@@ -42,6 +42,8 @@ The project uses retail transaction data containing fields such as:
 
 ### Power BI Dashboard
 
+<img width="908" height="505" alt="dashboard" src="https://github.com/user-attachments/assets/c8c011fd-47ac-4e24-8f50-ea0147240819" />
+
 The Power BI dashboard screenshot showcases the visual analysis of retail sales data and presents the results in a clear, business-oriented format.
 
 ### Google Sheets Dashboard
