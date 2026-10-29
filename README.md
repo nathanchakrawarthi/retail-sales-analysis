@@ -40,15 +40,16 @@ The project uses retail transaction data containing fields such as:
 
 ## Dashboards & Visualizations
 
-### Power BI
+### Power BI Dashboard
 
-Interactive dashboards for exploring retail sales performance and presenting key analytical patterns. The Power BI reports are the primary dashboard component of this project.
+The Power BI dashboard screenshot showcases the visual analysis of retail sales data and presents the results in a clear, business-oriented format.
 
-### Google Sheets
+### Google Sheets Dashboard
 
-A supplementary dashboard offering an additional view of the analyzed retail data.
+A supplementary dashboard created with assistance from Gemini to provide another visual representation of the retail sales data.
 
 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/15Ba-9SXpBP_jrDuYc3EoE0Cm1JboiQcSbrlco2lhu8U/edit?usp=sharing)
+
 
 ## Project Status
 
